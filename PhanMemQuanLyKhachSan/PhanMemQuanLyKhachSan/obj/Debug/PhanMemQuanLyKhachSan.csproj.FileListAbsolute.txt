@@ -1,0 +1,55 @@
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQ.D0EF2767.Up2Date
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\Admin\OneDrive\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.dashboard.resources
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Form1.resources
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQ.D0EF2767.Up2Date
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.dashboard.resources
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Form1.resources
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC_AddRoom.resources
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQ.D0EF2767.Up2Date
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.dashboard.resources
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Form1.resources
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC_AddRoom.resources
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQ.D0EF2767.Up2Date
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\nitro\OneDrive - Hanoi University of Science and Technology\Documents\quanlykhachsan-main\quanlykhachsan-main\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
